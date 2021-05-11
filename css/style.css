@@ -1,0 +1,22 @@
+#fotos {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+#fotos img {
+
+    width: 100%;
+}
+#fotos {
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+
+
+#fotos img {
+
+    width: 33.3333333%;
+}
